@@ -1,0 +1,19 @@
+# 🧬 Advanced Forensic DNA Analysis Platform
+
+This web application performs:
+
+- DNA base count analysis
+- GC content calculation
+- STR repeat analysis
+- SNP comparison with graph
+- DNA barcoding (BOLD-like system)
+- Phylogenetic tree generation
+
+🌍 Live Website:
+[https://your-streamlit-link.streamlit.app
+](https://forensic-dna-app-nw9pkhbabdl9vupm4suec3.streamlit.app/)
+Built using:
+- Streamlit
+- Python
+- Matplotlib
+- SciPy
